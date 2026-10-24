@@ -11,6 +11,6 @@ ALSO i do NOT support the use of AI, i just thought it would be fun to make unti
 
 Download the ZIP for all in one, OR each code file (THEY ARE ALL NEEDED TO WORK!!)
 
-![Uploading Screenshot 2026-10-22 195334.png…]()
+When using in server, you must @ OR reply to the bot
 
-![Uploading Screenshot 2026-10-22 195355.png…]()
+In dm it should just auto work!
