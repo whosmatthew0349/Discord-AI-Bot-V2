@@ -7,7 +7,7 @@ THINGS YOU NEED TO DO IN THE PYTHON TERMINAL: python -m pip install openai disco
 
 do whatever you want to with it lol
 
-ALSO i do NOT support the use of AI, i just thought it would be fun to make until i found out how much it costed lol
+ALSO i do NOT support the use of AI, i just thought it would be fun to make
 
 Download the ZIP for all in one, OR each code file (THEY ARE ALL NEEDED TO WORK!!)
 
